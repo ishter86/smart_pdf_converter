@@ -24,10 +24,10 @@ Se vuoi solo usare il programma senza installare Python, puoi scaricare il pacch
 
 **Installazione:**
 1.  Clona il repository: `git clone https://github.com/ishter86/smart_pdf_converter.git`
-2.  Naviga nella cartella: `cd NOME_REPOSITORY`
+2.  Naviga nella cartella: `cd smart_pdf_converter`
 3.  Installa le dipendenze Python: `pip install -r requirements.txt`
 
 **Utilizzo:**
-1.  Metti i file PDF nella cartella `Input`.
+1.  Metti i file PDF nella cartella `In`.
 2.  Esegui lo script: `python convertitore.py`
-3.  I risultati verranno salvati nella cartella `Output`.
+3.  I risultati verranno salvati nella cartella `Out`.
