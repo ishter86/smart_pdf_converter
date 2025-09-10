@@ -1,4 +1,4 @@
-# Convertitore PDF Intelligente v1.0
+# Smart PDF Converter v1.0
 
 Uno strumento da riga di comando per convertire file PDF in documenti Word (.docx), con supporto OCR per i file scansionati. Lo strumento offre anche il conteggio caratteri.
 
